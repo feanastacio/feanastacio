@@ -1,4 +1,6 @@
-Oi eu sou a Fernanda, atualmente estou aprendendo JavaScript👋
+##Oi eu sou a Fernanda 👋
+##
+Atualmente estou aprendendo JavaScript 👩🏽‍💻
 
 
 ![4daa837af8dfb9d023610ba4f780a6bf](https://github.com/user-attachments/assets/7d88bb41-ef11-41e8-a364-aa355f85c830)
@@ -14,4 +16,6 @@ Oi eu sou a Fernanda, atualmente estou aprendendo JavaScript👋
   <img height= "60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
                   
  ##
+
+
 </div>
