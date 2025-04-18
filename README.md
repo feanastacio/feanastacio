@@ -12,7 +12,6 @@ Atualmente estou aprendendo JavaScript 👩🏽‍💻
    <img height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
   <img height= "60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img height= "60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
                   
  ##
 
