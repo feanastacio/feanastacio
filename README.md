@@ -2,6 +2,7 @@
 Atualmente estou aprendendo JavaScript 👩🏽‍💻
 <p>
  • 🏫 Curso Desenvolvimento de Sistemas
+<p>
  • 📑 Estudo HTML, CSS, C#, JS e C++
 <p>
     
