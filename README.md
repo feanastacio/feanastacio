@@ -1,5 +1,4 @@
-##
-Oi eu sou a Fernanda 👋
+## Oi eu sou a Fernanda 👋
 ##
 Atualmente estou aprendendo JavaScript 👩🏽‍💻
 
