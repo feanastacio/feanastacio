@@ -18,8 +18,5 @@ Atualmente estou aprendendo JavaScript 👩🏽‍💻
   <img height= "45" windth="45" border radius = "10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
    
                   
- ## Estátisticas
- https://camo.githubusercontent.com/667c3852e7a06c5dda38e8d925fd428da64168391ba8873b3b2e435c7a7a51c5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b6175657a69746f372673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874
-
-
+ ## 
 </div>
