@@ -3,7 +3,7 @@ Atualmente estou aprendendo JavaScript 👩🏽‍💻
 <p>
  • 🏫 Curso Desenvolvimento de Sistemas
 <p>
- • 📑 Estudo HTML, CSS, C#, JS e C++
+ • 📑 Estudo HTML, CSS, C#, JS, APi, ReactJs e C++
     
 
 ## Tecnologias 🌟
