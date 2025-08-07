@@ -1,5 +1,5 @@
 ## Oi eu sou a Fernanda 🙋🏽‍♀️
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=C71C72&width=435&lines=Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=C71C72&multiline=true&width=435&lines=+++++++++++++++++Ol%C3%A1+me+chamo+Fernanda%2C;+++++++++++++Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 <p>
  • 🏫 Curso Desenvolvimento de Sistemas
 <p>
