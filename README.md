@@ -1,4 +1,5 @@
 
+ ## Olá, me chamo Fernanda!
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&color=C71C72&center=true&vCenter=true&width=435&lines=++++++++Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 <p>
  • 🏫 Curso Desenvolvimento de Sistemas
