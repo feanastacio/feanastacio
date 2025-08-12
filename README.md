@@ -4,7 +4,7 @@
 <p>
  • 🏫 Curso Desenvolvimento de Sistemas
 <p>
- • 📑 HTML| CSS | C# | JS | API | ReactJs | HTML | CSS |C++
+ • 📑 HTML | CSS | C# | JS | API | ReactJs | HTML | CSS | C++
 <p>
 <div>
   <a href="https://github.com/feanastacio">
