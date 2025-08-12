@@ -1,10 +1,16 @@
 
  ## Olá, me chamo Fernanda!
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&color=C71C72&center=true&vCenter=true&width=435&lines=++++++++Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+ 
 <p>
  • 🏫 Curso Desenvolvimento de Sistemas
 <p>
  • 📑 Estudo HTML, CSS, C#, JS, APi, ReactJs e C++
+<p>
+<div>
+  <a href="https://github.com/Bryan-sfc/Bryan-sfc">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fernanda-sfc&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-sfc&layout=compact&langs_count=7&theme=dark"/>
+</div>
     
 
 ## Tecnologias 🌟
