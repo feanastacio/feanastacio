@@ -2,7 +2,8 @@
  ## Olá, me chamo Fernanda!
  
 <p>
- • 🏫 Curso finaizado de Desenvolvimento de Sistemas
+ • 🏫 Curso finalizado de Desenvolvimento de Sistemas
+<p>
  • 🏫 Cursando faculdade de Ciência da Computação
 <p>
  • 📑 HTML | CSS | C# | JS | API | ReactJs | HTML | CSS | C++ | Python
