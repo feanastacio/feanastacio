@@ -3,9 +3,9 @@
  
 <p>
  • 🏫 Curso finaizado de Desenvolvimento de Sistemas
-   🏫 Cursando faculdade de Ciência da Computação
+ • 🏫 Cursando faculdade de Ciência da Computação
 <p>
- • 📑 HTML | CSS | C# | JS | API | ReactJs | HTML | CSS | C++ 
+ • 📑 HTML | CSS | C# | JS | API | ReactJs | HTML | CSS | C++ | Python
 <p>
 <div>
  
