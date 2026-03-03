@@ -2,7 +2,7 @@
  ## Olá, me chamo Fernanda!
  
 <p>
- • 🏫 Curso finalizado de Desenvolvimento de Sistemas
+ • 🏫 Formada em Desenvolvimento de Sistemas
 <p>
  • 🏫 Cursando faculdade de Ciência da Computação
 <p>
