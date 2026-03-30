@@ -4,7 +4,7 @@
 <p>
  • 🏫 Formada em Desenvolvimento de Sistemas
 <p>
- • 🏫 Cursando faculdade de Ciência da Computação
+
 <p>
  • 📑 HTML | CSS | C# | JS | API | ReactJs | HTML | CSS | C++ | Python
 <p>
